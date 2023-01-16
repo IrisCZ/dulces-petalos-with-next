@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.App {
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding: 2rem;
+}
